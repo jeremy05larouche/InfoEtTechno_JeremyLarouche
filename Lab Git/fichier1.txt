@@ -1,1 +1,1 @@
-contenu du fichier 1 dans master
+contenu du fichier 1 dans les branche fusionné
